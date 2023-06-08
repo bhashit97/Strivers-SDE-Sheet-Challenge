@@ -11,3 +11,8 @@ My Profiles :
 1. Leetcode : https://leetcode.com/gucciCode/
 2. GFG : https://auth.geeksforgeeks.org/user/bhashit%20rohit/
 3. CodeStudio : https://www.codingninjas.com/codestudio/profile/236b136e-aa02-48ad-8279-8b8b262338ab
+
+Abbreviation you may find in files or folder:
+1. CS : Codestudio(Coding ninja's practice platform).
+2. LC : Leetcode.
+3. PL : Problem Link.
